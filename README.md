@@ -1,6 +1,6 @@
-# et-library-booklist
+# fd-library-booklist
 
-Book List of ET-Library
+Book List of FD-Library
 
 英文|English [中文|Chinese](README_CHS.md)
 
@@ -35,8 +35,6 @@ The cover image of the book.
 A download link can be divided into 2 parts: Endpoint and index. The final link is Endpoint + index.  
 An endpoint is a mirror of the library. Starting with `https://` and ending with `/`.
 
-To calculate the index of a book itself: book/
-`sha256(ISBN+revision)`
+To calculate the index of a book itself: book/`sha256(ISBN+revision)`
 
-To calculate the index of a book cover(optional): cover/
-`sha256(ISBN+revision)`
+To calculate the index of a book cover(optional): cover/`sha256(ISBN+revision)`

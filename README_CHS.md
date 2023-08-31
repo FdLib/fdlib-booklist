@@ -1,6 +1,6 @@
-# et-library-booklist
+# fd-library-booklist
 
-Book List of ET-Library
+Book List of FD-Library
 
 [英文|English](README.md) 中文|Chinese
 

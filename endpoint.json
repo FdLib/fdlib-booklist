@@ -1,0 +1,11 @@
+{
+    "endpoints": [
+        {
+            "name": "Fudan-Local Network 1",
+            "friendlyName": "复旦内网下载点1",
+            "location": "Fudan University, Shanghai, China",
+            "address": "https://fudan-local-fdlib.tsstudio.top/",
+            "public": false
+        }
+    ]
+}
